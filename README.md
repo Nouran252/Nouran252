@@ -16,7 +16,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nouran252&show_icons=true&theme=dark)  
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouran-mahmoud-13b2072a6/)  
+[🌎 LinkedIn ](https://www.linkedin.com/in/nouran-mahmoud-13b2072a6/)  
+[🌎 Email ](nouranmahmoud252@gmail.com)  
 
 ### 🚀 Languages & Technologies  
 
