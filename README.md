@@ -12,9 +12,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-### 📊 GitHub Stats   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nouran252&show_icons=true&theme=dark)  
-
 ### 📫 Connect With Me  
 🌎 LinkedIn: (https://www.linkedin.com/in/nouran-mahmoud-13b2072a6/)  
 🌎 Email: nouranmahmoud252@gmail.com  
